@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **eCommerce Lok in bootcamp soyHenry 🚀**
 
-- 🖇️ Linkeding [https://www.linkedin.com/in/ignacio-grillo-caimary-74b51a1ba/](https://www.linkedin.com/in/ignacio-grillo-caimary-74b51a1ba/)
+- 🖇️ Linkeding [https://www.linkedin.com/igrilloc/](https://www.linkedin.com/in/igrilloc)
 
 - 📫 How to reach me **ignaciogrillocaimary@gmail.com**
 
