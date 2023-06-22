@@ -1,15 +1,12 @@
 ![1642320423853](https://user-images.githubusercontent.com/48784001/203785020-2b4826c1-7ddb-4de8-b65b-ebf6e04c5290.jpeg)
 
-[![Linkedln](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/igrilloc/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mixdeers@gmail.com)](mailto:ignaciogrillocaimary@gmail.com)
-
 # ¡Hola mundo! Soy Ignacio 👋 
 ### Full Stack Developer & Salesforce Developer. 
 Soy un ex estudiante de economía que un día quiso programar y se capacitó para poder seguir creciendo personalmente. 
 Excelente compañero de equipo, organizado y responsable. Disfruto mucho aprender cosas nuevas.
 Me recibí de Full Stack Developer en Soy Henry! 
 
-## 🛠  𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
+## Mi pila de tecnología 🛠
 
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
@@ -28,6 +25,13 @@ Me recibí de Full Stack Developer en Soy Henry!
 ![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code)
 ![Netlify](https://img.shields.io/badge/-Netlify-%2300C7B7?style=flat-square&logo=netlify&logoColor=ffffff)
 ![Vercel](https://img.shields.io/badge/-Vercel-%23ffffff?style=flat-square&logo=vercel&logoColor=000000)
+
+
+## Conectemos! 💬
+[![Linkedln](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/igrilloc/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mixdeers@gmail.com)](mailto:ignaciogrillocaimary@gmail.com)
+
+
 
 ## Aquí hay un meme aleatorio para ti, para que tu día sea mejor.
 (*PD: Actualiza la página para ver un nuevo meme.* :wink: )
