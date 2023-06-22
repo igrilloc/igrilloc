@@ -5,20 +5,9 @@
 
 # ¡Hola mundo! Soy Ignacio 👋 
 ### Full Stack Developer & Salesforce Developer. 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Soy un ex estudiante de economía que un día quiso programar y se capacitó para poder seguir creciendo personalmente. 
+Excelente compañero de equipo, organizado y responsable. Disfruto mucho aprender cosas nuevas.
+Me recibí de Full Stack Developer en Soy Henry! 
 
 ### Aquí hay un meme aleatorio para ti, para que tu día sea mejor.
 (*PD: Actualiza la página para ver un nuevo meme.* :wink: )
