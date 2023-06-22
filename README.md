@@ -41,7 +41,7 @@ Me recibí de Full Stack Developer en Soy Henry!
 ![Insomnia](https://img.shields.io/badge/-Insomnia-5849BE?style=flat-square&logo=Insomnia&logoColor=white)
 ![Notion](https://img.shields.io/badge/-Notion-000000?style=flat-square&logo=Notion&logoColor=white)
 ![Trello](https://img.shields.io/badge/-Trello-0079BF?style=flat-square&logo=Trello&logoColor=white)
-![Slack](src="https://img.shields.io/badge/-Slack-E01563?style=flat-square&logo=Slack&logoColor=white")
+![Slack](https://img.shields.io/badge/-Slack-E01563?style=flat-square&logo=Slack&logoColor=white)
 
 
 ## Conectemos! 💬
