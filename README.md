@@ -9,41 +9,27 @@ Soy un ex estudiante de economía que un día quiso programar y se capacitó par
 Excelente compañero de equipo, organizado y responsable. Disfruto mucho aprender cosas nuevas.
 Me recibí de Full Stack Developer en Soy Henry! 
 
-## 🛠  Technologies and tools
+## 🛠  𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
 
-<a name="learning-now"></a>
+![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
+![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react)
 
-<img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" />[tech_tools_anchor]
-&nbsp;
-<img src="https://img.shields.io/badge/TypeScript-282C34?logo=typescript&logoColor=3178C6" alt="TypeScript logo" title="TypeScript" height="25" />[tech_tools_anchor]
-&nbsp;
-<img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" alt="HTML5 logo" title="HTML5" height="25" />[tech_tools_anchor]
-&nbsp;
-<img src="https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=1572B6" alt="CSS3 logo" title="CSS3" height="25" />[tech_tools_anchor]
-&nbsp;
-<img src="https://img.shields.io/badge/Android-282C34?logo=android&logoColor=3DDC84" alt="Android logo" title="Android" height="25" />[tech_tools_anchor]
-&nbsp;
-<img src="https://img.shields.io/badge/React Native-282C34?logo=react&logoColor=61DAFB" alt="React Native logo" title="React Native" height="25" />[tech_tools_anchor]
-&nbsp;
-<img src="https://img.shields.io/badge/Redux-282C34?logo=redux&logoColor=764ABC" alt="Redux logo" title="Redux" height="25" />[tech_tools_anchor]
-&nbsp;
-<img src="https://img.shields.io/badge/ESLint-282C34?logo=eslint&logoColor=4B32C3" alt="ESLint logo" title="ESLint" height="25" />[tech_tools_anchor]
-&nbsp;
-<img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" alt="git logo" title="git" height="25" />[tech_tools_anchor]
-&nbsp;
-<img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" />[tech_tools_anchor]
-&nbsp;
-<img src="https://img.shields.io/badge/Fastlane-282C34?logo=fastlane&logoColor=00F200" alt="Fastlane logo" title="Fastlane" height="25" />[tech_tools_anchor]
-&nbsp;
-<img src="https://img.shields.io/badge/Jest-282C34?logo=jest&logoColor=C21325" alt="Jest logo" title="Jest" height="25" />[tech_tools_anchor]
+![Less](https://img.shields.io/badge/-Less-%231d365d?style=flat-square&logo=less&logoColor=ffffff)
+![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=flat-square&logo=sass&logoColor=ffffff)
+![TailwindCss](https://img.shields.io/badge/-TailwindCss-%231a202c?style=flat-square&logo=tailwind-css)
 
-<a name="learning-next"></a>
+![Webpack](https://img.shields.io/badge/-Webpack-%232C3A42?style=flat-square&logo=webpack)
+![Vite](https://img.shields.io/badge/-Vite-%23646CFF?style=flat-square&logo=vite&logoColor=ffffff)
+![ESlint](https://img.shields.io/badge/-ESLint-%234B32C3?style=flat-square&logo=eslint)
+![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
+![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code)
+![Netlify](https://img.shields.io/badge/-Netlify-%2300C7B7?style=flat-square&logo=netlify&logoColor=ffffff)
+![Vercel](https://img.shields.io/badge/-Vercel-%23ffffff?style=flat-square&logo=vercel&logoColor=000000)
 
-
-
-
-
-### Aquí hay un meme aleatorio para ti, para que tu día sea mejor.
+## Aquí hay un meme aleatorio para ti, para que tu día sea mejor.
 (*PD: Actualiza la página para ver un nuevo meme.* :wink: )
 
 <a href="https://github.com/techytushar/random-memer"><img src='https://web-production-4cea.up.railway.app/' title="Meme" alt="Please refresh the page if the meme doesn't show up." height="400"></a>
