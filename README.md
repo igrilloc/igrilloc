@@ -13,16 +13,15 @@ Me recibí de Full Stack Developer en Soy Henry!
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react)
+![Redux](https://img.shields.io/badge/Redux-282C34?logo=redux&logoColor=764ABC)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
+![NPM](https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=NPM&logoColor=white)
+![Express](https://img.shields.io/badge/Express-282C34?logo=express&logoColor=FFFFFF)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
-![Jest](https://img.shields.io/badge/Jest-282C34?logo=jest&logoColor=C21325)
-![Redux](https://img.shields.io/badge/Redux-282C34?logo=redux&logoColor=764ABC)
 ![Firebase](https://img.shields.io/badge/Firebase-282C34?logo=firebase&logoColor=FFCA28)
-![Express](https://img.shields.io/badge/Express-282C34?logo=express&logoColor=FFFFFF)
-
-
+![Jest](https://img.shields.io/badge/Jest-282C34?logo=jest&logoColor=C21325)
 
 ![Less](https://img.shields.io/badge/-Less-%231d365d?style=flat-square&logo=less&logoColor=ffffff)
 ![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=flat-square&logo=sass&logoColor=ffffff)
@@ -39,6 +38,10 @@ Me recibí de Full Stack Developer en Soy Henry!
 ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![Insomnia](https://img.shields.io/badge/-Insomnia-5849BE?style=flat-square&logo=Insomnia&logoColor=white)
+![Notion](https://img.shields.io/badge/-Notion-000000?style=flat-square&logo=Notion&logoColor=white)
+![Trello](https://img.shields.io/badge/-Trello-0079BF?style=flat-square&logo=Trello&logoColor=white)
+![Slack](src="https://img.shields.io/badge/-Slack-E01563?style=flat-square&logo=Slack&logoColor=white")
 
 
 ## Conectemos! 💬
