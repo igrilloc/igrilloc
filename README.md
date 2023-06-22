@@ -3,7 +3,8 @@
 [![Linkedln](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/igrilloc/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mixdeers@gmail.com)](mailto:ignaciogrillocaimary@gmail.com)
 
-# ¡Hola mundo! Soy Ignacio 👋 Full Stack Developer & Salesforce Developer. 
+# ¡Hola mundo! Soy Ignacio 👋 
+## Full Stack Developer & Salesforce Developer. 
 
 
 
