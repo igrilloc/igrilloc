@@ -2,9 +2,9 @@
 
 # ¡Hola mundo! Soy Ignacio 👋 
 ### Full Stack Developer & Salesforce Developer. 
-Soy un ex estudiante de economía que un día quiso programar y se capacitó para poder seguir creciendo personalmente. 
-Excelente compañero de equipo, organizado y responsable. Disfruto mucho aprender cosas nuevas.
-Me recibí de Full Stack Developer en Soy Henry! 
+Responsable y dinámico, con facilidad de adaptación y capacidad de trabajar en equipo. La habilidad de poner en práctica mis conocimientos adquiridos para lograr metas y objetivos de manera eficaz.
+Amante de la tecnología. Disfruto mucho aprender cosas nuevas, por lo que mi objetivo es un puesto desafiante y dinámico donde poder compartir mi experiencia y a su vez sumar nuevos conocimientos.
+¡Me recibí de Full Stack Developer en Soy Henry! 
 
 ## Mi pila de tecnología 🛠
 
