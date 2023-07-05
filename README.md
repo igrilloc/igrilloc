@@ -2,8 +2,7 @@
 
 # ¡Hola mundo! Soy Ignacio 👋 
 ### Full Stack Developer & Salesforce Developer. 
-Responsable y dinámico, con facilidad de adaptación y capacidad de trabajar en equipo. La habilidad de poner en práctica mis conocimientos adquiridos para lograr metas y objetivos de manera eficaz.
-Amante de la tecnología. Disfruto mucho aprender cosas nuevas, por lo que mi objetivo es un puesto desafiante y dinámico donde poder compartir mi experiencia y a su vez sumar nuevos conocimientos.
+Programador con background en Economía con capacidad de analizar datos de forma masiva, responsable y dinamico, facilidad de adaptación y trabajo en equipo. Especializado como Salesforce Developer y Full Stack Developer Javascript. Conocimientos en metodologías ágiles, GIT, estructura de datos, algoritmos, Apex, LWC y Omnistudio. Tengo experiencia en Salesforce con LWC, Apex, Apex Trigger, Integraciones y Dataraptors. Nivel de Inglés: básico.
 ¡Me recibí de Full Stack Developer en Soy Henry! 
 
 ## Mi pila de tecnología 🛠
